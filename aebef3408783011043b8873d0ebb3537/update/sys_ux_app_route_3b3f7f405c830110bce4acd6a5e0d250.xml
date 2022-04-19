@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Customer Opportunities v2 Config">3f3f7f40988301101cbfd61f76d72f51</app_config>
+        <description/>
+        <fields/>
+        <icon/>
+        <name>All Dashboards</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>all-dashboards</route_type>
+        <screen_type display_value="All Dashboards">f33f7f406d830110294b85dd80714b50</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-19 17:26:38</sys_created_on>
+        <sys_id>3b3f7f405c830110bce4acd6a5e0d250</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All Dashboards</sys_name>
+        <sys_package display_value="Customer Opportunities v2" source="x_220772_custome_0">aebef3408783011043b8873d0ebb3537</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Customer Opportunities v2">aebef3408783011043b8873d0ebb3537</sys_scope>
+        <sys_update_name>sys_ux_app_route_3b3f7f405c830110bce4acd6a5e0d250</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-19 17:26:38</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=3b3f7f405c830110bce4acd6a5e0d250"/>
+</record_update>

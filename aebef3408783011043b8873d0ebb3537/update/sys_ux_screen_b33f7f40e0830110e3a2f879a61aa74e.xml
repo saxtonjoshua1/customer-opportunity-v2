@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Customer Opportunities v2 Config">3f3f7f40988301101cbfd61f76d72f51</app_config>
+        <description/>
+        <event_mappings>[ ]</event_mappings>
+        <macroponent display_value="Compose Email">b07e59fe7743501033809b306910610c</macroponent>
+        <macroponent_config>{
+  "label" : "",
+  "bare" : true,
+  "scrollable" : "y",
+  "headerLevel" : "1",
+  "interceptNotifications" : false,
+  "propagateNotifications" : false
+}</macroponent_config>
+        <name>Draft Email Page</name>
+        <order>100</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <rollback_screen/>
+        <screen_condition>table=sys_email_draft</screen_condition>
+        <screen_type display_value="Record">b73f7f4056830110cc9e67014f952b51</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-19 17:26:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b33f7f40e0830110e3a2f879a61aa74e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Draft Email Page</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Customer Opportunities v2" source="x_220772_custome_0">aebef3408783011043b8873d0ebb3537</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Customer Opportunities v2">aebef3408783011043b8873d0ebb3537</sys_scope>
+        <sys_update_name>sys_ux_screen_b33f7f40e0830110e3a2f879a61aa74e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-19 17:26:38</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=b33f7f40e0830110e3a2f879a61aa74e"/>
+</record_update>
